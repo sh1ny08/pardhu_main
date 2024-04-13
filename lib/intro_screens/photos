@@ -1,0 +1,29 @@
+Stack(
+                children: [
+                  Positioned(
+                    right:40,
+                    top: 40,
+                    child: Image.network(
+                      'https://firebasestorage.googleapis.com/v0/b/fbla-mobile-app-2024.appspot.com/o/Inbox%20Screenshot%20Apr%2010%20removebg%20preview.png?alt=media&token=50c52d97-67da-4291-a48d-016aeea8c349',
+                    width: 800,
+                    height: 500,
+                  ),
+                  )
+                ],
+              ),
+
+              Stack(
+                children: [
+                  Positioned(
+                    left:40,
+                    top:40,
+                    child: Image.network(
+                      'https://firebasestorage.googleapis.com/v0/b/fbla-mobile-app-2024.appspot.com/o/Inbox%20Screenshot%20Apr%2010%20removebg%20preview.png?alt=media&token=50c52d97-67da-4291-a48d-016aeea8c349',
+                      width: 800,
+                      height: 500,
+                    ),
+                  )
+                ],
+              ),
+
+
